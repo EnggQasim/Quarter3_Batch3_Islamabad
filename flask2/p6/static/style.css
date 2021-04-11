@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+body {
+    background-color:black;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:brown;
+}
