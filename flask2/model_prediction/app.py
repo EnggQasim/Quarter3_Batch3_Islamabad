@@ -12,7 +12,7 @@ def index():
     return ''' 
     <h1>User Information</h1>
     <form action="/info" method="POST"> 
-    <input type="text" name="height" placeholder="User Name">
+    <input type="text" name="height" placeholder="Height in number format">
     
     <input type="submit" value="Send">
 
